@@ -9,10 +9,10 @@ const containerStyle = {
 const starContainerStyle = {
   display: "flex",
 };
-const textStyle = {
-  lineHeight: "1",
-  margin: "0",
-};
+// const textStyle = {
+//   lineHeight: "1",
+//   margin: "0",
+// };
 const starStyle = {
   height: "40px",
   width: "28px",
